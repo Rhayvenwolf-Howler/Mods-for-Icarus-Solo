@@ -1,0 +1,90 @@
+{
+    "name": "Rhayvenwolf-Soy&CoconutMilk_v1_w195",
+    "author": "Rhayvenwolf",
+    "version": "1.0",
+    "week": "All",
+    "fileName": "Rhayvenwolf-Soy&CoconutMilk_v1_w195",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+{
+                    "Name": "SoyMilk",
+                    "RequiredMillijoules": 2500,
+                    "RecipeSets": [
+                        {
+                            "RowName": "Kitchen_Stove",
+                            "DataTableName": "D_RecipeSets"
+                        },
+                        {
+                            "RowName": "Electric_Stove",
+                            "DataTableName": "D_RecipeSets"
+                        }
+                    ],
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Bean",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        }
+                    ],
+                    "Outputs": [],
+                    "ResourceOutputs": [
+                        {
+                            "Type": {
+                                "Value": "Milk"
+                            },
+                            "RequiredUnits": 200
+                        }
+                    ],
+                    "Audio": {
+                        "RowName": "CookingStation"
+                    }
+                },
+                {
+                    "Name": "CoconutMilk",
+                    "RequiredMillijoules": 2500,
+                    "RecipeSets": [
+                        {
+                            "RowName": "Kitchen_Stove",
+                            "DataTableName": "D_RecipeSets"
+                        },
+                        {
+                            "RowName": "Electric_Stove",
+                            "DataTableName": "D_RecipeSets"
+                        }
+                    ],
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Coconut_mature",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        }
+                    ],
+                    "Outputs": [],
+                    "ResourceOutputs": [
+                        {
+                            "Type": {
+                                "Value": "Milk"
+                            },
+                            "RequiredUnits": 500
+                        }
+                    ],
+                    "Audio": {
+                        "RowName": "CookingStation"
+                   }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
