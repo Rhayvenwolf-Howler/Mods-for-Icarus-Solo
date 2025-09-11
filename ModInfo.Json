@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Rhayvenwolf-SoyandCoconutMilk_v1_w195",
+      "author": "RhayvenWolf",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "It adds the ability to make milk in the stove using Soy beans, Mature coconuts and an Empty milk bottle or milk can",
+      "files": {
+       "exmodz": "https://github.com/Rhayvenwolf-Howler/Mods-for-Icarus-Solo/raw/main/Rhayvenwolf-SoyandCoconutMilk_v1_w195.EXMODZ"
+      },
+      "imageURL": "https://github.com/Rhayvenwolf-Howler/Mods-for-Icarus-Solo/raw/main/Rhayvenwolf-Howler.jpg",
+      "readmeURL": "https://github.com/Rhayvenwolf-Howler/Mods-for-Icarus-Solo/blob/main/README.md"
+    }
+  ]
+}
