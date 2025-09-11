@@ -1,9 +1,9 @@
 {
-    "name": "Rhayvenwolf-Soy&CoconutMilk_v1_w195",
+    "name": "Rhayvenwolf-SoyandCoconutMilk_v1_w195",
     "author": "Rhayvenwolf",
     "version": "1.0",
     "week": "All",
-    "fileName": "Rhayvenwolf-Soy&CoconutMilk_v1_w195",
+    "fileName": "Rhayvenwolf-SoyandCoconutMilk_v1_w195",
     "imageURL": "",
     "readmeURL": "",
     "description": "",
@@ -87,4 +87,5 @@
             "CurrentFile": "EndOfMod"
         }
     ]
+
 }
